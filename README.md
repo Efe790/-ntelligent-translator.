@@ -1,2 +1,2 @@
 # SMARTVERSE
-Bu uygulama insanların zekalarını dönüştürüyor.Mesela çok ileri zekalı birisi söylediği kelimeyi orta zekalı birisine anlatıyor.Bu sayede iletişim sorunu çözülüyor ve herkes anlaşabiliyor.
+Bu uygulama insanların zekalarını dönüştürüyor.Mesela çok ileri zekalı birisi söylediği kelimeyi orta zekalı birisine anlatıyor.Bu sayede iletişim sorunu çözülüyor ve herkes anlaşabiliyor.Çünkü herkes farklı zeka seviyesine göre konuşur.Ama Akıllı evren bu konuda yardım eder.
